@@ -25,7 +25,7 @@
 
 El `.` en `add .` le dice a GitHub que **GUARDE TODO** los archivos del proyecto que no esten en **.gitignore**
 
-[Enlace a mi GitHub: NODO_Plataforma_Cognitiva](https://github.com/aizenWN/NODO_Plataforma_Cognitiva)
+[Enlace a mi GitHub: NODO_Plataforma_Cognitiva](https://github.com/aizenWN/NODO_Plataforma_Cognitiva_Modular_Espressive.git)
 
 # Guardado de Datos en PC/Laptop y advertencias
 ``
